@@ -1,2 +1,3 @@
 # HOVER-YOUR-DORAEMON
-a beautiful hover card 
+A beautiful hover card using some of my web-development skills. I hope you'll enjoy it.
+
